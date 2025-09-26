@@ -20,4 +20,8 @@ public class Huesped {
     @OneToMany(cascade = CascadeType.ALL)
     private List<Reserva> reservas;
 
+    public void setIdHuesped(Long idHuesped) {
+        this.idHuesped = idHuesped;
+    }
+
 }
