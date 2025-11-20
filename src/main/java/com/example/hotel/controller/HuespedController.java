@@ -15,7 +15,7 @@ public class HuespedController {
 
     /**
      * Tipo de funcion: EQ
-     * DETs: 7
+     * DETs: 8
      * FTR: 1
      * Complejidad : Baja(3)
      * PF: 3
@@ -28,7 +28,7 @@ public class HuespedController {
 
     /**
      * Tipo de funcion: EQ
-     * DETs: 5
+     * DETs: 7
      * FTR: 1
      * Complejidad: Baja(3)
      * PF: 3
@@ -42,7 +42,7 @@ public class HuespedController {
 
     /**
      * Tipo de Funcion : EI
-     * DETs: 5
+     * DETs: 7
      * FTR: 1
      * Complejidad: Media(4)
      * PF: 3
@@ -56,7 +56,7 @@ public class HuespedController {
 
     /**
      * Tipo de funcion : EI
-     * DETs: 6
+     * DETs: 7
      * FTR: 1
      * Complejidad: Media(4)
      * PF: 3
