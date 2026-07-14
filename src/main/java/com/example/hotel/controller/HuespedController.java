@@ -45,7 +45,7 @@ public class HuespedController {
      * DETs: 7
      * FTR: 1
      * Complejidad: Media(4)
-     * PF: 3
+     * PF: 4
      * @param huesped
      * @return
      */
@@ -59,7 +59,7 @@ public class HuespedController {
      * DETs: 7
      * FTR: 1
      * Complejidad: Media(4)
-     * PF: 3
+     * PF: 4
      * @param huesped
      * @param id
      * @return
